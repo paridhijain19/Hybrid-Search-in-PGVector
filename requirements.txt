@@ -1,0 +1,11 @@
+streamlit
+psycopg2-binary
+transformers
+torch
+scikit-learn
+numpy
+pandas
+matplotlib
+PyMuPDF
+sentence-transformers
+rank_bm25
